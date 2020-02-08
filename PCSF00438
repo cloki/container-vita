@@ -1,0 +1,65 @@
+﻿# ID: PCSF00438
+# Title: God of War Collection
+# Region: EUR
+# Version: 1.0
+# Type: NoNpDRM
+# Code Author: Yuzuki
+# Credits: Yuzuki
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSF00438.psv
+# Note: 
+_V0 God of War
+$0000 00000000 00000000
+
+
+_V0 --Health Meter-- [Float]
+$0200 82374BC4 42C80000
+
+
+_V0 --Refill Health Meter (Press L+Up)-- [Float]
+$C201 00000001 00000110
+$0200 82374BC4 42C80000
+
+
+_V0 --Magic Meter-- [Float]
+$3201 817C0F9C 000057D4
+$3300 00000000 42C80000
+
+
+_V0 --Magic Meter (Press L+Left)-- [Float]
+$C201 00000001 00000180
+$3201 817C0F9C 000057D4
+$3300 00000000 42C80000
+
+
+_V0 --Rage of The Gods-- [Float]
+$3201 817C0F9C 000057D8
+$3300 00000000 42C80000
+
+
+_V0 --Refill Rage of The Gods (Press L+Down)-- [Float]
+$C201 00000001 00000140
+$3201 817C0F9C 000057D8
+$3300 00000000 42C80000
+
+
+_V0 --Power Up Meter/Red Orbs--
+$0200 8234A5D8 0000EA60
+
+
+_V0 God of War II
+$0000 00000000 00000000
+
+
+_V0 --Health Meter-- [Float]
+$3201 82059D28 000058F0
+$3300 00000000 42C80000
+
+
+_V0 --Magic Meter-- [Float]
+$3201 8193E9A4 00000440
+$3300 00000000 43480000
+
+
+_V0 --Power Up Meter/Red Orbs--
+$3201 8193E9A4 00000450
+$3300 00000000 000F423F
